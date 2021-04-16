@@ -1,0 +1,7 @@
+.DecoratedTable {background-color: clear}
+.DecoratedTable {border: 1px solid red}
+TABLE {margin: auto}
+.DecoratedCell {border: 2px solid blue}
+H2 {text-align:center}
+H3 {text-align:center}
+.CenterAlign{text-align:center;}
